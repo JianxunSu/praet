@@ -3,22 +3,22 @@
     <nav class="float-left">
       <ul>
         <li>
-          <a href="https://www.creative-tim.com">
-              {{ __('Creative Tim') }}
+          <a href="https://www.praetorianpower.com">
+              {{ __('PraetorianPowerProtection') }}
           </a>
         </li>
         <li>
-          <a href="https://creative-tim.com/presentation">
+          <a href="https://www.praetorianpower.com">
               {{ __('About Us') }}
           </a>
         </li>
         <li>
-          <a href="http://blog.creative-tim.com">
+          <a href="http://www.praetorianpower.com">
               {{ __('Blog') }}
           </a>
         </li>
         <li>
-          <a href="https://www.creative-tim.com/license">
+          <a href="https://www.praetorianpower.com">
               {{ __('Licenses') }}
           </a>
         </li>
@@ -29,7 +29,7 @@
       <script>
         document.write(new Date().getFullYear())
       </script>, made with <i class="material-icons">favorite</i> by
-      <a href="https://www.creative-tim.com" target="_blank">Creative Tim</a> and <a href="https://www.updivision.com" target="_blank">UPDIVISION</a> for a better web.
+      <a href="https://www.praetorianpower.com" target="_blank">Praetorian Power Protection</a> for a better world.
     </div>
   </div>
 </footer>

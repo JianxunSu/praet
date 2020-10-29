@@ -5,9 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <!-- Extra details for Live View on GitHub Pages -->
-    <!-- Canonical SEO -->
-    <link rel="canonical" href="https://www.creative-tim.com/product/material-dashboard-laravel" />
 
 
     <!--  Social tags      -->
@@ -16,11 +13,6 @@
 
 
     <!-- Schema.org markup for Google+ -->
-    <meta itemprop="name" content="Material Dashboard Laravel by Creative Tim">
-    <meta itemprop="description" content="Material Dashboard Laravel is a Free Material Bootstrap Admin Preset for Laravel with a fresh, new design inspired by Google's Material Design.">
-
-    <meta itemprop="image" content="https://s3.amazonaws.com/creativetim_bucket/products/154/opt_md_laravel_thumbnail.jpg">
-
 
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="product">
@@ -76,8 +68,8 @@
                   Tip 2: you can also add an image using data-image tag
               -->
               <div class="logo">
-                <a href="https://creative-tim.com/" class="simple-text logo-normal">
-                  {{ __('Creative Tim') }}
+                <a href="http://www.praetorianpower.com" class="simple-text logo-normal">
+                  {{ __('PreatianPowerProtection') }}
                 </a>
               </div>
               <div class="sidebar-wrapper">
@@ -292,22 +284,22 @@
   <nav class="float-left">
     <ul>
       <li>
-        <a href="https://www.creative-tim.com">
-            Creative Tim
+        <a href="https://www.praetorianpower.com">
+            PreatianPowerProtection
         </a>
       </li>
       <li>
-        <a href="https://creative-tim.com/presentation">
+        <a href="https://www.praetorianpower.com/about">
             About Us
         </a>
       </li>
       <li>
-        <a href="http://blog.creative-tim.com">
+        <a href="http://www.praetorianpower.com">
             Blog
         </a>
       </li>
       <li>
-        <a href="https://www.creative-tim.com/license">
+        <a href="www.praetorianpower.com">
             Licenses
         </a>
       </li>
@@ -318,7 +310,7 @@
     <script>
       document.write(new Date().getFullYear())
     </script>, made with <i class="material-icons">favorite</i> by
-    <a href="https://www.creative-tim.com" target="_blank">Creative Tim</a> and <a href="https://www.updivision.com" target="_blank">UPDIVISION</a> for a better web.
+    <a href="https://www.praetorianpower.com" target="_blank">Praetorian Power Protection</a> for a better world.
   </div>
 </div>
 </footer>
